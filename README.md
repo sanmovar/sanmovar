@@ -22,7 +22,7 @@
 
 - 🎓 Retraining as **Fachinformatiker für Anwendungsentwicklung**
 - 💼 Open to **Junior Developer** opportunities after retraining
-- 💻 Main focus: **C#**, **ASP.NET**, **JavaScript**, **TypeScript**
+- 💻 Main focus: **Python**, **C#**, **ASP.NET**, **JavaScript**, **TypeScript**
 - 📚 Currently learning: **Azure**, **Linux**, **React**, **PHP**
 - 🗄️ Interested in **SQL**, databases and modern web development
 
