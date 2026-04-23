@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/sanmovar/Ticket-System">Featured Project</a> •
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+  <a href="mailto:andrey.movshovich@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/andrey-movshovich/">LinkedIn</a>
 </p>
 
 <p align="center">
