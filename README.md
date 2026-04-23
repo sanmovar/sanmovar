@@ -1,15 +1,19 @@
-<h1 align="center">Hi, I'm Andrey 👋</h1>
+<h1 align="center">Hi, I'm Andrey Movshovich 👋</h1>
 <h3 align="center">Junior .NET / Web Developer in retraining</h3>
 
 <p align="center">
-  I build web applications with C#, ASP.NET, JavaScript and TypeScript.<br/>
-  Currently focused on backend fundamentals, databases, clean UI and practical projects.
+  I build practical web applications with C#, ASP.NET, JavaScript and TypeScript.<br/>
+  Currently focused on backend fundamentals, databases, clean UI and portfolio-ready projects.
 </p>
 
 <p align="center">
   <a href="https://github.com/sanmovar/Ticket-System">Featured Project</a> •
-  <a href="mailto:YOURMAIL@example.com">Contact</a> •
-  <a href="https://www.linkedin.com/in/YOUR-LINK/">LinkedIn</a>
+  <a href="mailto:your.email@example.com">Email</a> •
+  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanmovar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -17,9 +21,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Retraining as **Fachinformatiker für Anwendungsentwicklung**
-- 💼 Looking for a **Junior Developer** position after retraining
-- 💻 Focus on **C#**, **ASP.NET**, **JavaScript** and **TypeScript**
-- 📚 Currently learning **Azure**, **Linux**, **React** and **PHP**
+- 💼 Open to **Junior Developer** opportunities after retraining
+- 💻 Main focus: **C#**, **ASP.NET**, **JavaScript**, **TypeScript**
+- 📚 Currently learning: **Azure**, **Linux**, **React**, **PHP**
 - 🗄️ Interested in **SQL**, databases and modern web development
 
 ---
@@ -44,7 +48,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Tools
+### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -55,32 +59,51 @@
 
 ---
 
-## 🌟 Featured Project
+## 📌 Featured Project
 
 ### Ticket System
 A web-based ticket management system built with **ASP.NET Core MVC**.
 
-**Highlights**
+**Key features**
 - User authentication and role-based access
 - CRUD functionality for tickets and projects
-- Database integration with Entity Framework Core
-- Clean, modern UI for internal workflows
+- Entity Framework Core for data access
+- Structured admin and user workflows
+- Clean and modern UI for practical internal processes
 
-🔗 Repository: [Ticket-System](https://github.com/sanmovar/Ticket-System)
+**Tech used**
+- C#
+- ASP.NET Core MVC
+- Entity Framework Core
+- SQL Server / PostgreSQL
+- HTML, CSS, JavaScript
+
+🔗 Repository: [sanmovar/Ticket-System](https://github.com/sanmovar/Ticket-System)
+
+> Tip: Add 2–4 screenshots of your project below this section to make the repository stronger for recruiters.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanmovar&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanmovar&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Strengthening backend skills with **C# / ASP.NET**
-- Improving database knowledge with **SQL**
-- Learning more about **Azure**, **Linux** and modern frontend tools
-- Building practical projects for my developer portfolio
+- Building practical portfolio projects with **.NET** and **ASP.NET Core**
+- Strengthening backend and database fundamentals
+- Improving knowledge in **SQL**, **Linux** and **Azure**
+- Growing toward a professional **Junior .NET / Web Developer** profile
 
 ---
 
 ## 📫 Contact
 
 - Location: Germany
-- Open to: Junior Developer roles, internships, trainee positions
 - Languages: German, Russian, English
+- Open to: Junior Developer roles, internships and trainee positions
