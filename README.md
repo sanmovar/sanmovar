@@ -82,20 +82,11 @@
 
 ## 💼 Internship Projects — Flexcon IT
 
-### Phone AI Agent for internal callers
-Voice login via name and personal PIN (ElevenLabs + n8n), PINs stored only as hashes, lockout after three failed attempts, forced PIN change on first login. The agent works against our ERP/CRM (Odoo): creating and querying tickets, capturing contacts and leads, drafting quotes. Hardened with prompt-injection guardrails, per-call limits and a request-validating router. Logs auto-delete after 90 days; monitoring alerts on errors and slow responses, security tests documented.
-
-### Automated Lead Research Pipeline
-An n8n pipeline sourcing companies from open data (OpenStreetMap, Wikidata) and purchased datasets, crawling their websites, scoring each company against fixed criteria with an LLM, and finding contacts via web search. Every claim is checked against its source page or discarded. Result: several thousand vetted leads exported to Excel for sales outreach.
-
-### Pipeline Monitoring
-A dedicated workflow checks crawler health, the LLM interface, error rate and stuck jobs every 30 minutes, emailing on problems — the pipeline itself also verifies the crawler is reachable before each run.
-
-### Data Provider Comparison
-Evaluated data vendors on price, data quality and legal compliance as a decision brief for management.
-
-### Live Sports Results (Lovable)
-A web app built with Lovable showing all of today's games and live scores across football, basketball, tennis and ice hockey on one page — no league or sport selection needed upfront.
+- Phone AI Agent for internal callers
+- Automated Lead Research Pipeline
+- Pipeline Monitoring
+- Data Provider Comparison
+- Live Sports Results (Lovable)
 
 ---
 
