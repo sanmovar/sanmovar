@@ -74,9 +74,19 @@
 
 ## 📜 Certificates
 
-- **n8n N8N101** — n8n fundamentals
-- **n8n N8N102** — *Integrations: APIs & Connected Workflows* (October 2026)
-- **n8n N8N103** — in progress
+**n8n**
+- **N8N101** — n8n fundamentals
+- **N8N102** — *Integrations: APIs & Connected Workflows* (October 2026)
+- **N8N103** — in progress
+
+**Web Development & Python**
+- **C# From Beginner to Professional** — Udemy (January 2026)
+- **JavaScript - Complete JavaScript** — Udemy (May 2024)
+- **CSS - Complete CSS** — Udemy (May 2024)
+- **Complete Python, Django, Data Science and ML Guide** — Udemy (April 2024)
+
+**Cloud & AI**
+- **Microsoft Certified: Azure AI Fundamentals** — Microsoft (June 2024)
 
 ---
 
